@@ -1,0 +1,2 @@
+Name,Engine,Version,Row_format,Rows,Avg_row_length,Data_length,Max_data_length,Index_length,Data_free,Auto_increment,Create_time,Update_time,Check_time,Collation,Checksum,Create_options,Comment
+dados_rais,InnoDB,10,Dynamic,2656586,538,1430257664,0,0,4194304,NULL,"2024-02-06 16:57:33","2024-02-06 17:08:32",NULL,utf8mb4_bin,NULL,,
