@@ -30,7 +30,7 @@ Este repositório contém todos os recursos e documentações utilizados no proc
 
 Para replicar o processo de ETL realizado neste projeto, siga os passos abaixo:
 
-1. Clone o repositório para a sua máquina local utilizando o comando `git clone (https://github.com/dougdotcon/ETL-Processo-Seletivo-DataViva).
+1. Clone o repositório para a sua máquina local utilizando o comando `git clone [https://github.com/dougdotcon/ETL-Processo-Seletivo-DataViva]
 2. Navegue até a pasta SQL/ e execute os scripts SQL para criar o banco de dados e as tabelas necessárias.
 3. Importe os dados CSV localizados na pasta CSV/ para o banco de dados criado.
 4. Utilize os notebooks Jupyter na pasta ProcessoSeletivoDataViva/TentativaBemSucedida/ para realizar a análise e tratamento dos dados.
